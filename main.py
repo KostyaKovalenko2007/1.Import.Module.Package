@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QWidget,QLabel,QApplication,QVBoxLayout
 from application import salary
 from application.db import people
 from datetime import date
